@@ -1,0 +1,3 @@
+<config>
+    <jdbc.url>${jdbc.url}</jdbc.url>
+</config>
